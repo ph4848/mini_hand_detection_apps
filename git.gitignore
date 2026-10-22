@@ -1,2 +1,10 @@
-*.venv
-*.gitignore
+my_env/
+venv/
+.venv/
+
+.idea/
+
+__pycache__/
+*.py[cod]
+
+.env

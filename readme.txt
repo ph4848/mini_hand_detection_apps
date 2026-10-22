@@ -1,1 +1,0 @@
-Please install mediapipe==0.10.20 and opencv-python==4.11.0.86 on your virtual environment
